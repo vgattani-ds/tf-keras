@@ -1,0 +1,25 @@
+Same weights:
+
+Symmetric issues
+
+
+Dropout can break symmetry also
+
+
+small and large weights get to vanishing gradient descent..
+
+Variance should be 1 for initialized weights
+
+
+Other wise variance for later activation function explodes or vanishes.
+
+
+For relu it does not work.
+
+
+you divide by 2 as well. Heuristic solution
+
+https://www.youtube.com/watch?v=1pgahpCZeF0&ab_channel=NPTEL-NOCIITM
+
+https://www.youtube.com/watch?v=8krd5qKVw-Q&ab_channel=deeplizard
+
